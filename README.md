@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently exploring **DSA,AWS and MEAN**
 
-- 📝 I regularly read articles on [Quora](Quora)
+- 📝 I regularly read articles on [Quora](www.quora.com)
 
 - 📫 How to reach me **singireddybharath99@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharath Singireddy</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently exploring **DSA,AWS and MEAN**
+- 🌱 I’m currently exploring **ReactJs,DSA,AWS and MEAN**
 
 - 📝 I regularly read articles on <a href="https://www.quora.com" target="_blank">Quora</a>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharath Singireddy</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently exploring **MERN & MEAN and System Design, AWS**
+- 🌱 I’m currently working as **AI/Machine Learning Engineer**
 
 - 📝 I regularly read articles on <a href="https://www.medium.com" target="_blank">Medium</a> & <a href="https://www.quora.com" target="_blank">Quora</a>
 
